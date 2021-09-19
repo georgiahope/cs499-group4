@@ -1,15 +1,15 @@
 # D.1 Design
 
-##Research Topic
+## Research Topic
 
-##Research Question
+## Research Question
 
-##Evidence of Research Problem
+## Evidence of Research Problem
 
-##Purpose Statement
+## Purpose Statement
 
-##Research Questions
+## Research Questions
 
-##Objectives
+## Objectives
 
-##Scope
+## Scope
