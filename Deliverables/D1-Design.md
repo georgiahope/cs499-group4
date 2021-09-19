@@ -20,11 +20,6 @@ Previous work like the 'Theory of software developer expertise' has shown that c
   * 2: How many pull requests or contributions have been accepted for a particular project?
   * 3: How do the two users differ from one another?
     * Does their overall experience time show if they approach with better agile methods or not?
-
-
-## Research Questions
-
-
 ## Objectives
 
 ## Scope
