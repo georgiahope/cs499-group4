@@ -7,7 +7,7 @@
 New comers in software development have difficulty finding experience because of the
 fact they are new and lack experience. This not only makes it hard for projects to find a variety of developers
 but it also adds the problem of that low level developers have a hard time progressing if they 
-are not gaining experience in projects. 
+are not gaining experience in projects. Although first-time developers are able to gain knowledge by participating in small parts of projects, they aren't getting that experience due to not being a part of a big contribution to projects like advanced developers.  
 
 ## Evidence of Research Problem
 Previous work like the 'Theory of software developer expertise' has shown that concepts of "expert" and "expertise" within the field of software development and discovers additional findings on why senior-level developers may contribute more on GitHub compared to first-time developers. This is because more experience and knowledge for software developers are considered more in pull requests on GitHub. 
