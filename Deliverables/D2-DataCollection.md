@@ -20,8 +20,8 @@ Filtering our Data:
 Validating our Data:
 - In order to make sure the data we are collecting are valid, we will be:
   - Using reliable data resources; PyGithub, GitHub API
-  - Align our key factors and paraments
-  - Use automated and computerized programs; graph makers
+  - Aligning our key factors and paraments
+  - Using automated and computerized programs; graph makers
 
 ## 5. Characteristics of your data
 ### You should have some data at this point but you can continue to collect data later. Present here some descriptive statistics about your data set.
