@@ -13,8 +13,7 @@ For RQ1 we created a script in Python that displays the total number of pull req
 ## 4. Filtering and validity check
 ### Explain how you are filtering or validating the data that you collect to make sure that you are processing valid data. Remember, garbage in, garbage out.
 Filtering our Data:
-- Something that we need to filter out of our data is the time that the user joined GitHub. A way to remove this is in the env-filter in python. 
-
+- Something that we need to filter out of our data is the time that the user joined GitHub. A way to remove this is using the filter() method in python.
 ![Screen Shot 2021-09-25 at 3 34 24 PM](https://user-images.githubusercontent.com/75430495/134788475-2336f022-93db-4ff9-ac8d-58960858c7ee.png)
 
 Validating our Data:
@@ -22,6 +21,7 @@ Validating our Data:
   - Using reliable data resources; PyGithub, GitHub API
   - Aligning our key factors and paraments
   - Using automated and computerized programs; graph makers
+  - Matching the data we collected with what is on GitHub
 
 ## 5. Characteristics of your data
 ### You should have some data at this point but you can continue to collect data later. Present here some descriptive statistics about your data set.
