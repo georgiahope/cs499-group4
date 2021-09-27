@@ -25,6 +25,9 @@ Validating our Data:
 
 ## 5. Characteristics of your data
 ### You should have some data at this point but you can continue to collect data later. Present here some descriptive statistics about your data set.
+Slight trend towards pulls of older accounts being merged more often than those of newer accounts
+![IMG_0553](https://user-images.githubusercontent.com/75430495/134979589-acf420f3-2e4c-4083-bce7-8c9f3c81b3fa.png)
+
 
 ## 6. Preliminary data
 ### Provide a link to your preliminary data
