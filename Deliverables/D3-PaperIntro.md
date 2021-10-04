@@ -11,10 +11,10 @@ State the purpose of your research. Explain why achieving this purpose will
 solve (or help to solve) the problem. If you have hypotheses, they can appear here.
 
 ## After that, 
-State your research question(s), with the motivation for each of them. Remember: 
-the answers to the RQs must be connected to the purpose and problem (they should help 
-accomplish the purpose and solve the problem). 
-
+* RQ 1: How many pull requests have been created on a particular Github project?
+  * This will give us an idea of how many contributions are being made by various users on Github. From here, we will choose a few users at random to look further into their github history.
+* RQ 2: Refering to specific users, how many pull requests of theirs have been accepted?
+  * This will give us data on how many pull requests a specific user has made on a project and how many of those have been accepted. This then tells us how many contributions were actually deemed significant to a project and we will compare the number of significant contributions between various users.
 
 ## Then, 
 
