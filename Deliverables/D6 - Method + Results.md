@@ -10,7 +10,7 @@ inspected/cleaned/filtered the data to avoid incorrect assumptions? What kind
 of additional data wrangling have you done do to answer the research questions? 
 Tables and figures are welcome in this section.
 ## Data analysis: 
-How did analyze the data to answer your research questions? 
+After collecting all the data relevant to the research topic, the data can be viewed in a .csv file. In this .csv file, different columns represent different attributes that have been deemed significant in order to adequately answer the research questions. The data is analyzed through R Studio and is represented by different types of graphs. Scatterplots and bar graphs are used in order to identify a pattern between how old user accounts are versus how many of the user's contributions are merged for a project. In addition, a boxplot using the same data are used to identify potential outliers that exist.
 # Results: 
 You can organize this section by research question. Show graphs, tables, 
 numbers, etc. to help answer the questions. Explain and discuss the results (it is not 
