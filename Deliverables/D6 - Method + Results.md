@@ -1,6 +1,4 @@
 # Research method: 
-You should explain the data collection and data analyzes 
-procedures. 
 ## Data collection: 
 ### Method
 In this paper, we sought to gather information about the relationship between the acceptance rate of pull requests on GitHub and the experience level of the associated contributor. This was accomplished by analyzing pull requests for a number of popular GitHub projects.
