@@ -91,4 +91,28 @@ For RQ1, our results showed that our .csv results file had up to 231 contributor
 The results presented in this paper brings us closer to the understanding of how the average development path of junior level developers, by considering how the amount of time a developer has been contributing to open-source projects correlates to the rate at which their contributions are accepted. By doing so, we have the opportunity to bring knowledge to new software developers, specifically helping them to understand what to expect from their first steps of programming in a new community on GitHub.
 
 # References
-WE NEED TO UPDATE THESE. ALL OF THIS INFO WAS PULLED FROM D4.2 AND D6 WHICH HAVE INCONSISTENT REFERENCES. :)
+[1] Rose, T. (2017). Towards understanding what factors aECT by Tresa rose a ... Retrieved October 14, 2021, fromhttps://curve.carleton.ca/system/files/etd/4d6605dd-eed2-4b0f-b1e1-1b92f6dea244/etd_pdf/d102ad239b0371a72a1c5c43978d82bd/rose-towardsunderstandingwhatfactorsaffectpull.pdf.
+
+[2] Legay, D., Decan, A., & Mens, T. (2018, December 15).On the impact of pull request decisions on future contribu-tions. Retrieved October 14, 2021, from https://arxiv.org/abs/1812.06269.
+
+[3] Soares, D. M., De Lima, M. L., Murta, L., & Plastino,A. (2015, December 9). Rejection factors of pull requestsfiled by CORE team developers in software projects withhigh  acceptance  rates.  Retrieved  October  14,  2021,  fromhttps://ieeexplore.ieee.org/abstract/document/7424445.
+
+[4] Lenarduzzi, V., Nikkola, V., Saarimäki, N., & Taibi, D.(2020, August 28). Does code quality affect pull request accep-tance? an empirical study. Retrieved October 14, 2021, fromhttps://www.sciencedirect.com/science/article/pii/S0164121220302090.
+
+[5] Dey, T., & Mockus, A. (2020, March 2). Which pull re-quests get accepted and why? A study of popular NPM Pack-ages. Retrieved October 14, 2021, from https://arxiv.org/abs/2003.01153.
+
+[6] Yu, Y., Wang, H., Filkov, V., Devanbu, P., & Vasilescu, B.(2015). Wait for it: Determinants of pull request evaluationlatency on github. 2015 IEEE/ACM 12th Working Conferenceon Mining Software Repositories. https://doi.org/10.1109/msr.2015.42
+
+[7] GitHub. (n.d.). Retrieved November 7, 2021, from https://github.com/trending?since=monthly.
+
+[8] facebook/react-native. GitHub. (n.d.). Retrieved No-vember 7, 2021, from https://github.com/facebook/react-native.
+
+[9] goplus/gop. GitHub. (n.d.). Retrieved November 7, 2021,from https://github.com/goplus/gop.
+
+[10] louislam/uptime-kuma. GitHub. (n.d.). Retrieved No-vember 7, 2021, from https://github.com/louislam/uptime-kuma.
+
+[11] HashLips/hashlips_art_engine. (n.d.) Retrieved No-vember 7, 2021, from https://github.com/HashLips/hashlips_art_engine.
+
+[12] TechXueXi/TechXueXi. (n.d.) Retrieved November 7,2021, from https://github.com/TechXueXi/TechXueXi.
+
+[13]  PyGithub/PyGithub.  (n.d.)  Retrieved  November  7,2021, from https://github.com/PyGithub/Pygithub.
