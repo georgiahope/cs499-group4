@@ -65,11 +65,11 @@ In figure 1, we show a part of our .csv results file which had up to 231 contrib
 
 #### Figure 3 : Bar Graph Results
 
-![Screen Shot 2021-11-07 at 9 43 47 AM](https://user-images.githubusercontent.com/75430495/140654776-ef2f709b-b34b-4b90-999d-4b6a3fe329da.png)
+![final_boxplot](https://user-images.githubusercontent.com/75430495/141659948-203b62bd-6e18-454d-8908-c388cd107c3c.png)
 
-#### Figure 4 : Boxplot to Identify Potential Outliers 
+#### Figure 4 : Boxplot of Account Creation Date and PR status 
 
-Based off of figure 3, within the total of 231 contributors, there were 125 pull requests merged and 106 pull requests not merged. As we can see, there was a close number between these two numbers. We began to use RStudio for our third data set which indicates the time the contributor has made their GitHub account and if their pull request got merged or not on a project. In figure 2, we identified that there is an even split between pull requests merged from accounts that were older and newer. However, since these results are very close, we used a boxplot to identify potential outliers, as seen in figure 4. In the year 2010, there were a few outliers, but no outliers in the other years. So, it seems to be that no matter the age of the contributor's account, it doesn't relate to the likelihood of a pull request acceptance. 
+Based off of figure 3, within the total of 231 contributors, there were 125 pull requests merged and 106 pull requests not merged. As we can see, there was a close number between these two numbers. We began to use RStudio for our third data set which indicates the time the contributor has made their GitHub account and if their pull request got merged or not on a project. In figure 2, we identified that there is an even split between pull requests merged from accounts that were older and newer. However, since these results are very close, we used a boxplot to identify potential outliers, as seen in figure 4. There weren't any outliers that affected the results. Also, in figure 5, there is the summary table of the results. The earliest year a pull request was not merged was in 2008, while 2010 was the earliest that was merged. The lastest that was both merged and not merged is in 2021. 
 
 #### Figure 5: Summary Table of Results
 |         | Merged | Not Merged |
@@ -84,6 +84,11 @@ Based off of figure 3, within the total of 231 contributors, there were 125 pull
 ## Threats to Validity
 
 ## Conclusion
+In this paper, we investigated the overall amount of time a developer has been contributing to open-source software relates to the number of contributions made by that developer, as well as how many of those contributions are considered to be “useful” enough to be accepted. This study looked at a number of pull requests made on open-source projects on GitHub. For each request, the experience of the user behind it (measured as the amount of time elapsed since the first GitHub contribution made by the user), the number of contributions made by that user, and whether the pull was merged will all be considered. We aimed to answer two research questions: RQ1 focused on how many pull requests have been created on a particular Github project and RQ2 focused on those specific users by seeing how many pull requests of theirs have been accepted. 
 
-## References
+For RQ1, our results showed that our .csv results file had up to 231 contributors' pull requests. Here we have the date and time that the contributors from 5 repositories joined GitHub and if their pull request was merged or not. The contributors on these 5 repositories created accounts as early as from the year 2008 until 2021. For RQ2, our results showed that within the total of 231 contributors, there were 125 pull requests merged and 106 pull requests not merged. So, there was a close number between these two numbers. Overall, no matter the age of the contributor's account, it doesn't relate to the likelihood of a pull request acceptance. 
+
+The results presented in this paper brings us closer to the understanding of how the average development path of junior level developers, by considering how the amount of time a developer has been contributing to open-source projects correlates to the rate at which their contributions are accepted. By doing so, we have the opportunity to bring knowledge to new software developers, specifically helping them to understand what to expect from their first steps of programming in a new community on GitHub.
+
+# References
 WE NEED TO UPDATE THESE. ALL OF THIS INFO WAS PULLED FROM D4.2 AND D6 WHICH HAVE INCONSISTENT REFERENCES. :)
