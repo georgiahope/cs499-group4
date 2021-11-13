@@ -51,7 +51,7 @@ After collecting all the data relevant to the research topic, the data can be vi
 
 ![Screen Shot 2021-11-07 at 9 42 52 AM](https://user-images.githubusercontent.com/75430495/140653894-07e57706-739e-4269-9cf8-90d7a74d9b08.png)
 
-#### Figure 1: .csv Results
+#### Figure 1: .csv Results of GitHub Pull Requests from 231 contributors
 
 In figure 1, we show a part of our .csv results file which had up to 231 contributors' pull requests. Here we have the date and time that the contributors from 5 repositories joined GitHub and if their pull request was merged or not. The contributors on these 5 repositories created accounts as early as from the year 2008 until 2021. 
 
@@ -59,11 +59,11 @@ In figure 1, we show a part of our .csv results file which had up to 231 contrib
 
 ![Screen Shot 2021-11-07 at 9 43 35 AM](https://user-images.githubusercontent.com/75430495/140654352-dbc89e48-9450-4b8e-8a72-b073e87fcdf3.png)
 
-#### Figure 2: Scattorplot of Results
+#### Figure 2: Scattorplot of .csv Results
 
 ![Screen Shot 2021-11-07 at 10 02 56 AM](https://user-images.githubusercontent.com/75430495/140654457-24563a51-0862-4dca-82ab-82e20bafaf90.png)
 
-#### Figure 3 : Bar Graph Results
+#### Figure 3 : Bar Graph Results of Merged and Not Merged Pull Requests
 
 ![final_boxplot](https://user-images.githubusercontent.com/75430495/141659948-203b62bd-6e18-454d-8908-c388cd107c3c.png)
 
