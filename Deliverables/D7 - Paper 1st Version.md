@@ -70,6 +70,15 @@ In figure 1, we show a part of our .csv results file which had up to 231 contrib
 #### Figure 4 : Boxplot to Identify Potential Outliers 
 
 Based off of figure 3, within the total of 231 contributors, there were 125 pull requests merged and 106 pull requests not merged. As we can see, there was a close number between these two numbers. We began to use RStudio for our third data set which indicates the time the contributor has made their GitHub account and if their pull request got merged or not on a project. In figure 2, we identified that there is an even split between pull requests merged from accounts that were older and newer. However, since these results are very close, we used a boxplot to identify potential outliers, as seen in figure 4. In the year 2010, there were a few outliers, but no outliers in the other years. So, it seems to be that no matter the age of the contributor's account, it doesn't relate to the likelihood of a pull request acceptance. 
+
+#### Figure 5: Summary Table of Results
+|         | Merged | Not Merged |
+|---------|--------|------------|
+| Minimum | 2010   | 2008       |
+| Q1      | 2010   | 2010       |
+| Median  | 2011   | 2014       |
+| Q3      | 2016   | 2020       |
+| Maximum | 2021   | 2021       |
 ## Discussion
 
 ## Threats to Validity
