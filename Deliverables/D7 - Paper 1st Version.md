@@ -1,7 +1,7 @@
 # Title:
 
 ## Abstract
-
+An empirical study was conducted to provide insight to whether the overall amount of time a developer has been contributing to open-source software relates to the number of contributions made by that developer. This study collected data from mulitple open-source projects on Github in order to identify a pattern between the two topics. Although the results indicate there is only a correlation relationship, this study provides an understanding of the average development path of junior level developers. In software engineering, this study can specifically help software developers to understand what to expect from their first steps of programming in a new community such as GitHub.
 ## Intro
 The career ladder of a software developer consists of three levels: junior, middle, and senior. In order to determine salary level and responsibilites, the industry will refer to this terminology to understand and assign different degrees of qualification. Software developers are assigned to a degree of qualification based off their level of expertise in terms of: technical knowledge, day-to-day duties, independent work, and contributions to various software development projects. Being able to make this distinction between developers improves efficiency for interaction and interal communication. This means that companies search for developers with senior levels because it helps set more accurate expecations for a particular engineer. The easiest way to identify a senior level developer is by finding how many significant contributions they have made to a particular software project. However, newcomers in software development have difficulty contributing to projects due to their lack of experience.
 
