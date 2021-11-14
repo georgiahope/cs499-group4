@@ -89,6 +89,19 @@ The results of this study suggest that there may be a bias, whether conscious or
 
 However, experience level may not be the sole factor impacting acceptance rates, as is shown in Table 1. In both groups, being those with merged pulled requests and those with unmerged pull requests, the first quartile of data goes up to those users with accounts created in 2010. However, the group with unmerged requests has a minimum value of 2008, while the group with merged request's oldest member created their account in 2010. This means that the oldest 25% of accounts with unmerged requests is largely just as old as the oldest 25% of accounts with merged requests, with at least some accounts being older.
 ## Threats to Validity
+#### Threats to Conceptual Validity:
+  1. Unneccasry Duplication
+#### Threats to Internal Validity:
+  1. Extraneous effects (history; experience)
+  <br/>Are participants exposed to other projects whose effects on their contributions could obscure the effects of the independent variable?
+  2. Selective sample (multiple leveled group)
+  <br/>Do the participants vary over their level of experitse: high or low level developers?
+  3. Statistical regression effects (regression to the mean)
+  <br/>Regression toward the mean: the tendency of extreme (very high or very low) scores to fall closer to the mean on re-testing. Could changes in participants’ contribution status to the projects be caused by this?
+#### Threats to Statistical Conclusion
+  1. Inappropriate use of statistical techniques
+  2. Inappropriate use of data collection techniques
+  3. Use of a statistical test lacking sufficient data
 
 ## Conclusion
 In this paper, we investigated how the overall amount of time a developer has been contributing to open-source software relates to the number of contributions made by that developer, as well as how many of those contributions are considered to be “useful” enough to be accepted. This study looked at a number of pull requests made on open-source projects on GitHub. For each request, the experience of the user behind it (measured as the amount of time elapsed since the first GitHub contribution made by the user), the number of contributions made by that user, and whether the pull was merged will all be considered. We aimed to answer two research questions: RQ1 focused on how many pull requests have been created on a particular Github project and RQ2 focused on those specific users by seeing how many pull requests of theirs have been accepted. 
