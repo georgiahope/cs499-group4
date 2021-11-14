@@ -69,7 +69,7 @@ In figure 1, we show a part of our .csv results file which had up to 231 contrib
 
 Of the 231 pull requests analyzed, 125 requests had been merged, while 106 had not been merged.
 
-#### Figure 4 : Boxplot of Account Creation Date and PR status 
+#### Table 1 : Boxplot of Account Creation Date and PR status 
 
 Based off of figure 3, within the total of 231 contributors, there were 125 pull requests merged and 106 pull requests not merged. As we can see, there was a close number between these two numbers. We began to use RStudio for our third data set which indicates the time the contributor has made their GitHub account and if their pull request got merged or not on a project. In figure 2, we identified that there is an even split between pull requests merged from accounts that were older and newer. However, since these results are very close, we used a boxplot to identify potential outliers, as seen in figure 4. There weren't any outliers that affected the results. Also, in figure 5, there is the summary table of the results. The earliest year a pull request was not merged was in 2008, while 2010 was the earliest that was merged. The lastest that was both merged and not merged is in 2021. 
 
@@ -86,6 +86,8 @@ Based off of figure 3, within the total of 231 contributors, there were 125 pull
 The above table provides summary statistics about pull requests, seperated into two groups based on merge status. The oldest account associated with a merged pull request, made in 2010, was two years younger than the oldest account associated with a pull request which was not merged, made in 2008. The median value for merged requests was an account made in 2011, while requests not merged had an account which was created in 2014. The youngest account in both categories was made in 2021. The mean value for accounts with merged pull requests was a creation year of 2013, while for those with unmerged requests it was 2014.
 ## Discussion
 The results of this study suggest that there may be a bias, whether conscious or not, toward requests made by users with older GitHub accounts when the decision to merge or not to merge a pull request is made. This may be due to, and is likely influenced by, the overall software development experience level of each user. Users with more development experience may produce higher quality code, which would impact the likelihood of acceptance. It may also be affected by each user's level of experience in using GitHub. Familiarity with using GitHub, as well as common formatting practices when creating a pull request, may increase acceptance rates.
+
+However, experience level may not be the sole factor impacting acceptance rates, as is shown in Table 1. In both groups, being those with merged pulled requests and those with unmerged pull requests, the first quartile of data goes up to those users with accounts created in 2010. However, the group with unmerged requests has a minimum value of 2008, while the group with merged request's oldest member created their account in 2010. This means that the oldest 25% of accounts with unmerged requests is largely just as old as the oldest 25% of accounts with merged requests, with at least some accounts being older.
 ## Threats to Validity
 
 ## Conclusion
