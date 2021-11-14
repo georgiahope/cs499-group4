@@ -81,6 +81,9 @@ Based off of figure 3, within the total of 231 contributors, there were 125 pull
 | Median  | 2011   | 2014       |
 | Q3      | 2016   | 2020       |
 | Maximum | 2021   | 2021       |
+| Mean    | 2013   | 2014       |
+
+The above table provides summary statistics about pull requests, seperated into two groups based on merge status. The oldest account associated with a merged pull request, made in 2010, was two years younger than the oldest account associated with a pull request which was not merged, made in 2008. The median value for merged requests was an account made in 2011, while requests not merged had an account which was created in 2014. The youngest account in both categories was made in 2021. The mean value for accounts with merged pull requests was a creation year of 2013, while for those with unmerged requests it was 2014.
 ## Discussion
 
 ## Threats to Validity
