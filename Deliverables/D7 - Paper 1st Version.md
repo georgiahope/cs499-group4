@@ -69,11 +69,11 @@ In figure 1, we show a part of our .csv results file which had up to 231 contrib
 
 Of the 231 pull requests analyzed, 125 requests had been merged, while 106 had not been merged.
 
-#### Table 1 : Boxplot of Account Creation Date and PR status 
+#### Figure 4 : Boxplot of Account Creation Date and PR status 
 
 Based off of figure 3, within the total of 231 contributors, there were 125 pull requests merged and 106 pull requests not merged. As we can see, there was a close number between these two numbers. We began to use RStudio for our third data set which indicates the time the contributor has made their GitHub account and if their pull request got merged or not on a project. In figure 2, we identified that there is an even split between pull requests merged from accounts that were older and newer. However, since these results are very close, we used a boxplot to identify potential outliers, as seen in figure 4. There weren't any outliers that affected the results. Also, in figure 5, there is the summary table of the results. The earliest year a pull request was not merged was in 2008, while 2010 was the earliest that was merged. The lastest that was both merged and not merged is in 2021. 
 
-#### Figure 5: Summary Table of Results
+#### Table 1: Summary Table of Results
 |         | Merged | Not Merged |
 |---------|--------|------------|
 | Minimum | 2010   | 2008       |
