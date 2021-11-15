@@ -41,9 +41,19 @@ Overall, all the previous related research papers show the factors surrounding p
 In this paper, we sought to gather information about the relationship between the acceptance rate of pull requests on GitHub and the experience level of the associated contributor. This was accomplished by analyzing pull requests for a number of popular GitHub projects.
 
 ### Project Selection
-The GitHub projects to be analyzed were selected from the list of trending GitHub repositories over the last month [7]. This method was selected in order to maximize the number of pull requests to be analyzed. Additionally, as these repositories are featured prominently on GitHub, there is an increased likelihood of open-source developers of varying experience levels encountering and contributing to these projects. The first five entries in this list were included in the study. The following repositories were included: facebook/react-native [8] goplus/gop [9] louislam/uptime-kuma [10] HashLips/hashlips_art_engine [11] TechXueXi/TechXueXi [12]
+The GitHub projects to be analyzed were selected from the list of trending GitHub repositories over the last month [7]. This method was selected in order to maximize the number of pull requests to be analyzed. Additionally, as these repositories are featured prominently on GitHub, there is an increased likelihood of open-source developers of varying experience levels encountering and contributing to these projects. The first five entries in this list were included in the study. The following repositories were included: 
+
+- facebook/react-native [8] 
+
+- goplus/gop [9] 
+
+- louislam/uptime-kuma [10] 
+
+- HashLips/hashlips_art_engine [11] 
+
+- TechXueXi/TechXueXi [12]
 ### Data Collection
-The relevant data was collected from these projects through the use of a Python script, using the PyGithub library [7]. For each repository, a limit of fifty pull requests was set, up to which all available requests were collected and stored. Each repository and pull request was then cycled through, and for each the account creation date of the user and whether or not the pull request was merged were written as a new row in a .csv file. In total, data from 231 pull requests was collected.
+The relevant data was collected from these projects through the use of a Python script, using the PyGithub library [13]. For each repository, a limit of fifty pull requests was set, up to which all available requests were collected and stored. Each repository and pull request was then cycled through, and for each the account creation date of the user and whether or not the pull request was merged were written as a new row in a .csv file. In total, data from 231 pull requests was collected.
 ### Data Analysis
 After collecting all the data relevant to the research topic, the data can be viewed in a .csv file. In this .csv file, different columns represent different attributes that have been deemed significant in order to adequately answer the research questions. The data is analyzed through R Studio and is represented by different types of graphs. Scatterplots and bar graphs are used in order to identify a pattern between how old user accounts are versus how many of the user's contributions are merged for a project. In addition, a boxplot using the same data are used to identify potential outliers that exist.
 ## Results
