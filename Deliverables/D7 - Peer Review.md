@@ -1,5 +1,6 @@
 # D6. Peer Review
 ## Summary
+give a neutral description of what you think the paper is about, why the problem is important, and what the authors have done
 ## Strengths and Weaknesses
 ## Detailed Comments
 ### Grading Criteria
