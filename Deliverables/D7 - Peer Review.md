@@ -1,6 +1,8 @@
 # D6. Peer Review
 ## Summary
 give a neutral description of what you think the paper is about, why the problem is important, and what the authors have done
+
+The paper *Analyzing Pull Requests to Identify Spam Bots* focuses on the problem that Github has an increasing number of spam bots which disrupt general workflow of projects and results in poor code quality. 
 ## Strengths and Weaknesses
 ## Detailed Comments
 ### Grading Criteria
